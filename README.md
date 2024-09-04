@@ -1,4 +1,4 @@
-react를 왜 쓰는가?
+* react를 왜 쓰는가? *
 
 Single Page Application 만들때 쓰는 것.
 <br>
