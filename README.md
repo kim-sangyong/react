@@ -1,4 +1,4 @@
-* react를 왜 쓰는가? *
+* react를 왜 쓰는가?
 
 Single Page Application 만들때 쓰는 것.
 <br>
@@ -10,7 +10,7 @@ JavaScript 만으로도 만들 수 있지만 코드가 길어지고 복잡해져
 react를 사용하지 않아도, html과 css, javascript를 이용해서 웹 페이지를 만들 수 있지만, react를 이용해 사용자와 상호작용할 수 있는 동적인 UI를 쉽게 만들 수 있기 때문에 많이 이용되는거 같다.
 <br>
 
-* react를 쓰는 또 다른 이유!!! *
+* react를 쓰는 또 다른 이유!!!
 
  html을 함수, array, object 에 보관하고 재사용할 수 있어서 큰 프로젝트일 수록 html 관리 편리해진다.<br>
  <br>
