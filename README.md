@@ -8,3 +8,10 @@ JavaScript 만으로도 만들 수 있지만 코드가 길어지고 복잡해져
 <br>
 비슷한 JavaScript 라이브러리로 Vue, Svelte, Preact, SolidJs 라는 라이브러리도 존재(요즘 뜨는 중) 하지만 react가 가장 오래  되었고 react를 사용하는 유저가 가장 많다.<br>
 react를 사용하지 않아도, html과 css, javascript를 이용해서 웹 페이지를 만들 수 있지만, react를 이용해 사용자와 상호작용할 수 있는 동적인 UI를 쉽게 만들 수 있기 때문에 많이 이용되는거 같다.
+<br>
+
+* react를 쓰는 또 다른 이유!!! *
+
+ html을 함수, array, object 에 보관하고 재사용할 수 있어서 큰 프로젝트일 수록 html 관리 편리해진다.<br>
+ <br>
+  React Native를 쓰면 같은 리액트 문법으로 모바일 앱 개발도 가능하디. React Native에선 html css 문법만 약간 다르다고 한다. 향후 React Native도 공부하자!
